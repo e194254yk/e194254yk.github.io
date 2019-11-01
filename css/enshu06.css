@@ -1,0 +1,17 @@
+h1{
+    color:darkorange;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine;
+}
+
+p{
+    font-size:25px;
+    font-weight:bold;
+}
+
+body{
+    background-image:url("../images/original.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
