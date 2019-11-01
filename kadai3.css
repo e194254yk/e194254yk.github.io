@@ -1,0 +1,24 @@
+h1{
+    color:white;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color:violet;
+    font-family: "Impact";
+    text-align: center;
+    background-color: greenyellow;
+}
+h3{
+    color:aqua;
+    font-family: "Impact";
+}
+p{
+    color:red;
+}
+
+body{
+    background-image:url("../images/original.jpg");
+    background-attachment: fixed;
+}
