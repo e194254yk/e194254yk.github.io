@@ -1,0 +1,28 @@
+h1{
+    color: gold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: darkmagenta;
+}
+h2{
+    color:violet;
+    font-family: "Impact";
+    text-align: center;
+    background-color: greenyellow;
+}
+table{
+    background-color : black;
+    color : #ff0000;
+}
+ol{
+    color: orange;
+    background-image:url("../images/guwan.png");
+    background-position : bottom top;
+}
+address{
+    color: aquamarine;
+}
+body{
+    background-image:url("../images/original.jpg");
+    background-attachment: fixed;
+}
