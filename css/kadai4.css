@@ -1,0 +1,32 @@
+h1.X{
+    color:white;
+    font-family: "Impact";
+    text-align: center;
+    background-color: pink;
+}
+h1.Y{
+    color:darkmagenta;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aqua;
+}
+h2.A{
+    color:navy;
+    font-family: "Impact";
+    text-align: center;
+    background-color: lightcyan;
+}
+h2.B{
+    color:fuchsia;
+    font-family: "Impact";
+    text-align: center;
+    background-color:pink;
+}
+p{
+    color:blueviolet;
+}
+
+body{
+    background-image:url("../images/nekohaikei.png");
+    background-attachment: fixed;
+}
