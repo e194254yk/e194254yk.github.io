@@ -1,3 +1,8 @@
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}
+
 div.title{
     width: 1000px;
     height: 40px;
