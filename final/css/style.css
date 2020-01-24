@@ -1,0 +1,370 @@
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}
+
+div.title{
+    width: 1000px;
+    height: 50px;
+    color: cornflowerblue;
+    text-align: center;
+    font-family: "Impact";
+    background-color: deeppink;
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+div.menu{
+    display: inline-block;
+    vertical-align:top;
+    width: 250px;
+    height: 650px;
+    background-color: rosybrown;
+   font-size:15px;
+}
+div.menu1{
+    width: 250px;
+    height: 155px;
+    background-color: red;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-image:url("../images/roiyaru.jpg");
+    background-size:cover;
+}
+div.menu2{
+    width: 250px;
+    height: 155px;
+    background-color: red;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-image:url("../images/kagero.jpg");
+    background-size:cover;
+}
+div.menu3{
+    width: 250px;
+    height: 155px;
+    background-color: red;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-image:url("../images/orakuru.jpg");
+    background-size:cover;
+}
+div.menu4{
+    width: 250px;
+    height: 155px;
+    background-color: red;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-image:url("../images/nova.jpg");
+    background-size:cover;
+}
+div.image{
+    display: inline-block;
+    
+    width: 700px;
+    height: 650px;
+    font-size: 15px;
+    margin-left: 50px;
+    background-color: lightskyblue;
+}
+div.image1{
+    width: 700px;
+    height: 300px;
+    font-size: 15px;
+    background-image:url("../images/vanguard.jpg");
+    background-position : center;
+}
+div.bunsho1{
+    width: 700px;
+    height: 50px;
+    font-size: 18.3px;
+    color:aquamarine;
+    font-family: "Impact";
+    background-image: url("../images/star.jfif");
+    margin-bottom: 0;
+}
+div.image2{
+    width: 700px;
+    height: 260px;
+    font-size: 15px;
+    background-image:url("../images/zzz.png");
+    background-position : center;
+}
+div.bunsho2{
+    color: yellow;
+    font-size: 22px;
+    width: 700px;
+    height: 40px;
+    background-color: blue;
+    background-image:url("../images/hono.jpg");
+    background-position : center;
+    margin-bottom: 10px;
+}
+div.footer{
+    width: 1000px;
+    height: 23px;
+    background-color: aquamarine;
+    text-align:end;
+    font-size: 15px;
+    margin-top: 10px;
+    color: darkslateblue;
+}
+div.gg{
+    font-size: 0;
+    width: 1000px;
+    height:650px;
+    background-image:url("../images/gg.jpg");
+    background-size: contain
+}
+
+
+
+div.title1{
+    width: 1000px;
+    height: 50px;
+    color: deepskyblue;
+    text-align: center;
+    font-family: "Impact";
+    background-color: yellow;
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+div.gg1{
+    font-size: 0;
+    width: 1000px;
+    height:550px;
+    background-color: azure;
+}
+div.lol1{
+    width: 1000px;
+    height:450px;
+    background-color: aquamarine;
+}
+div.imagea-1{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/garu.jpg");
+    background-size: contain
+}
+div.imagea-2{
+    display: inline-block;
+    vertical-align:top;
+    width: 334px;
+    height:450px;
+    background-image:url("../images/hara.jpg");
+    background-size: contain
+}
+div.imagea-3{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/aru.jpg");
+    background-size: contain
+}
+div.bun1{
+    font-size: 23px;
+    width: 1000px;
+    height:100px;
+    background-color: ivory;
+    margin-top: 10px;
+    color: gold;
+}
+div.footer1a{
+    font-size: 18px;
+    width: 1000px;
+    height:100px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
+div.title2{
+    width: 1000px;
+    height: 50px;
+    color: red;
+    text-align: center;
+    font-family: "Impact";
+    background-color: magenta;
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+div.gg2{
+    font-size: 0;
+    width: 1000px;
+    height:550px;
+    background-color: black;
+}
+div.lol2{
+    width: 1000px;
+    height:450px;
+    background-color: aquamarine;
+}
+div.imageb-1{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/anba.jpg");
+    background-size: contain
+}
+div.imageb-2{
+    display: inline-block;
+    vertical-align:top;
+    width: 334px;
+    height:450px;
+    background-image:url("../images/texia.jpg");
+    background-size: contain
+}
+div.imageb-3{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/mokusiroku.jpg");
+    background-size: contain
+}
+div.bun2{
+    font-size: 22px;
+    width: 1000px;
+    height:100px;
+    background-color: darkviolet;
+    margin-top: 10px;
+    color: red;
+}
+div.footer2a{
+    font-size: 18px;
+    width: 1000px;
+    height:100px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
+div.title3{
+    width: 1000px;
+    height: 50px;
+    color: yellow;
+    text-align: center;
+    font-family: "Impact";
+    background-color: darkorange;
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+div.gg3{
+    font-size: 0;
+    width: 1000px;
+    height:550px;
+    background-color: yellow;
+}
+div.lol3{
+    width: 1000px;
+    height:450px;
+    background-color: aquamarine;
+}
+div.imagec-1{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/tukuyomi.jpg");
+    background-size: contain
+}
+div.imagec-2{
+    display: inline-block;
+    vertical-align:top;
+    width: 334px;
+    height:450px;
+    background-image:url("../images/inpe.jpg");
+    background-size: contain
+}
+div.imagec-3{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/ama.jpg");
+    background-size: contain
+}
+div.bun3{
+    font-size: 22px;
+    width: 1000px;
+    height:100px;
+    background-color: lawngreen;
+    margin-top: 10px;
+    color: cornflowerblue;
+}
+div.footer3a{
+    font-size: 18px;
+    width: 1000px;
+    height:100px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
+div.title4{
+    width: 1000px;
+    height: 50px;
+    color: black;
+    text-align: center;
+    font-family: "Impact";
+    background-color: gainsboro;
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+div.gg4{
+    font-size: 0;
+    width: 1000px;
+    height:550px;
+    background-color: darkcyan;
+}
+div.lol4{
+    width: 1000px;
+    height:450px;
+    background-color: darkcyan;
+}
+div.imaged-1{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/rai.jpg");
+    background-size: contain
+}
+div.imaged-2{
+    display: inline-block;
+    vertical-align:top;
+    width: 334px;
+    height:450px;
+    background-image:url("../images/toto.jpg");
+    background-size: contain
+}
+div.imaged-3{
+    display: inline-block;
+    vertical-align:top;
+    width: 333px;
+    height:450px;
+    background-image:url("../images/asyu.jpg");
+    background-size: contain
+}
+div.bun4{
+    font-size: 22px;
+    width: 1000px;
+    height:100px;
+    background-color: rosybrown;
+    margin-top: 10px;
+    color: darkblue;
+}
+div.footer4a{
+    font-size: 18px;
+    width: 1000px;
+    height:100px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
